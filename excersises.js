@@ -28,6 +28,7 @@ age = 25 (Won't work)
     }
 
     if (health >= 0) doDamage
+    hello
 */
 
 /* 🧩 Övning 1 – Hej världen
