@@ -86,15 +86,14 @@ myAge = 16;
 if (myAge == 15) alert("You are 15");
 if (myAge < 15) alert("You are below 15"); */
 
-
 if (myAge > 15) {
-    console.log("We will test this first");
-    console.log("isildur is extremely overweight")
-    console.log("you gotdam right")
+  console.log("We will test this first");
+  console.log("isildur is extremely overweight");
+  console.log("you gotdam right");
 } else if (myAge == 15) {
-    alert("You are 15") 
+  alert("You are 15");
 } else if (myAge < 15) {
-    alert("You are below 15");
+  alert("You are below 15");
 }
 
 /* ⭐ Övning 5 – Kombinera flera villkor

@@ -1,29 +1,32 @@
-const numberOne = document.getElementById("numberOne");
-const numberOneQuery = document.querySelector(".number-one"); 
-const allPieces = document.querySelectorAll("div");
+import { boardGeneratorArray } from "./data";
 
-/* numberOne.style.backgroundColor = "red" */
+const boardSection = document.querySelector("section");
 
-/* QuerySelector:
+const boardGenerationFunction = () => {
+  boardGeneratorArray.forEach((piece, index) => {
+    const pieceEl = document.createElement("div");
+    pieceEl.classList.add(piece.pieceClass);
+    pieceEl.id = piece.id;
+    if (piece.src) {
+      const pieceImage = document.createElement("img");
+      pieceImage.src = piece.src;
+      pieceImage.alt = piece.alt;
+      pieceImage.classList.add(piece.imgClass);
+      pieceEl.append(pieceImage);
+    }
+    if (piece.letterClass) {
+      const letterEl = document.createElement("p");
+      letterEl.classList.add(piece.letterClass);
+      letterEl.textContent = piece.letterClass;
+      pieceEl.append(letterEl);
+    }
+    if (piece.number) {
+      const numberEl = document.createElement("p");
+      numberEl.textContent = piece.number;
+      pieceEl.append(numberEl);
+    }
+    boardSection.append(pieceEl);
+  });
+};
 
-querySelector("section")
-querySelector(".class")
-querySelector("#id")
-
-För flera så ha All
-
-*/
-
-const blackKing = document.getElementById("bk-e8");
-const pieceImg = document.querySelector("#bk-e8 img");
-
-blackKing.addEventListener("click", () => {
-    console.log("click")
-    blackKing.style.backgroundColor = "#008B8B"
-})
-
-console.log(blackKing.id)
-
-console.log(blackKing);
-
-const 
+boardGenerationFunction();
