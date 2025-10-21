@@ -2,7 +2,7 @@ export const boardGeneratorArray = [
   {
     id: "br-a8",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/br.png",
     alt: "tower",
     number: 8,
@@ -12,7 +12,7 @@ export const boardGeneratorArray = [
   {
     id: "bn-b8",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bn.png",
     alt: "a knight",
     number: null,
@@ -22,7 +22,7 @@ export const boardGeneratorArray = [
   {
     id: "bb-c8",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bb.png",
     alt: "Holy guy",
     number: null,
@@ -32,7 +32,7 @@ export const boardGeneratorArray = [
   {
     id: "bq-d8",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bq.png",
     alt: "Happy wife, happy life",
     number: null,
@@ -42,7 +42,7 @@ export const boardGeneratorArray = [
   {
     id: "bk-e8",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bk.png",
     alt: "Royalty",
     number: null,
@@ -52,7 +52,7 @@ export const boardGeneratorArray = [
   {
     id: "bb-f8",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bb.png",
     alt: "Holy guy x2",
     number: null,
@@ -62,7 +62,7 @@ export const boardGeneratorArray = [
   {
     id: "bn-g8",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bn.png",
     alt: "headless horseman",
     number: null,
@@ -72,7 +72,7 @@ export const boardGeneratorArray = [
   {
     id: "br-h8",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/br.png",
     alt: "twin towers",
     number: null,
@@ -82,7 +82,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-a7",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: 7,
@@ -92,7 +92,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-b2",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -102,7 +102,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-c7",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -112,7 +112,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-d7",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -122,7 +122,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-e7",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -132,7 +132,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-f7",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -142,7 +142,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-g7",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -152,7 +152,7 @@ export const boardGeneratorArray = [
   {
     id: "bp-h7",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: "pieces/bp.png",
     alt: "Pawn",
     number: null,
@@ -165,7 +165,7 @@ export const boardGeneratorArray = [
   {
     id: "a6",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: 6,
@@ -175,7 +175,7 @@ export const boardGeneratorArray = [
   {
     id: "b6",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -185,7 +185,7 @@ export const boardGeneratorArray = [
   {
     id: "c6",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -195,7 +195,7 @@ export const boardGeneratorArray = [
   {
     id: "d6",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -205,7 +205,7 @@ export const boardGeneratorArray = [
   {
     id: "e6",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -215,7 +215,7 @@ export const boardGeneratorArray = [
   {
     id: "f6",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -225,7 +225,7 @@ export const boardGeneratorArray = [
   {
     id: "g6",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -235,7 +235,7 @@ export const boardGeneratorArray = [
   {
     id: "h6",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -246,7 +246,7 @@ export const boardGeneratorArray = [
   {
     id: "a5",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: 5,
@@ -257,7 +257,7 @@ export const boardGeneratorArray = [
   {
     id: "b5",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -267,7 +267,7 @@ export const boardGeneratorArray = [
   {
     id: "c5",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -277,7 +277,7 @@ export const boardGeneratorArray = [
   {
     id: "d5",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -287,7 +287,7 @@ export const boardGeneratorArray = [
   {
     id: "e5",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -297,7 +297,7 @@ export const boardGeneratorArray = [
   {
     id: "f5",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -307,7 +307,7 @@ export const boardGeneratorArray = [
   {
     id: "g5",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -317,7 +317,7 @@ export const boardGeneratorArray = [
   {
     id: "h5",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -327,7 +327,7 @@ export const boardGeneratorArray = [
   {
     id: "a4",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: 4,
@@ -337,7 +337,7 @@ export const boardGeneratorArray = [
   {
     id: "b4",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -347,7 +347,7 @@ export const boardGeneratorArray = [
   {
     id: "c4",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -357,7 +357,7 @@ export const boardGeneratorArray = [
   {
     id: "d4",
     pieceClass: "square-green",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -367,7 +367,7 @@ export const boardGeneratorArray = [
   {
     id: "e4",
     pieceClass: "square-white",
-    imgClass: "piece",
+
     src: null,
     alt: null,
     number: null,
@@ -377,7 +377,6 @@ export const boardGeneratorArray = [
   {
     id: "f4",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -387,7 +386,6 @@ export const boardGeneratorArray = [
   {
     id: "g4",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -397,7 +395,6 @@ export const boardGeneratorArray = [
   {
     id: "h4",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -407,7 +404,6 @@ export const boardGeneratorArray = [
   {
     id: "a3",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: 3,
@@ -418,7 +414,6 @@ export const boardGeneratorArray = [
   {
     id: "b3",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -428,7 +423,6 @@ export const boardGeneratorArray = [
   {
     id: "c3",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -438,7 +432,6 @@ export const boardGeneratorArray = [
   {
     id: "d3",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -448,7 +441,6 @@ export const boardGeneratorArray = [
   {
     id: "e3",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -458,7 +450,6 @@ export const boardGeneratorArray = [
   {
     id: "f3",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -468,7 +459,6 @@ export const boardGeneratorArray = [
   {
     id: "g3",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -478,7 +468,6 @@ export const boardGeneratorArray = [
   {
     id: "h3",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: null,
     alt: null,
     number: null,
@@ -491,7 +480,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-a2",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: 2,
@@ -501,7 +489,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-b2",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -511,7 +498,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-c2",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -521,7 +507,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-d2",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -531,7 +516,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-e2",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -541,7 +525,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-f2",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -551,7 +534,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-g2",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -561,7 +543,6 @@ export const boardGeneratorArray = [
   {
     id: "wp-h2",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wp.png",
     alt: "Pawn",
     number: null,
@@ -572,7 +553,6 @@ export const boardGeneratorArray = [
   {
     id: "wr-1",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wr.png",
     alt: "tower",
     number: 1,
@@ -582,7 +562,6 @@ export const boardGeneratorArray = [
   {
     id: "wn-1",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wn.png",
     alt: "a knight",
     number: null,
@@ -592,7 +571,6 @@ export const boardGeneratorArray = [
   {
     id: "wb-1",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wb.png",
     alt: "Holy guy",
     number: null,
@@ -602,7 +580,6 @@ export const boardGeneratorArray = [
   {
     id: "wq-1",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wq.png",
     alt: "Happy wife, happy life",
     number: null,
@@ -612,7 +589,6 @@ export const boardGeneratorArray = [
   {
     id: "wk-1",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wk.png",
     alt: "Royalty",
     number: null,
@@ -622,7 +598,6 @@ export const boardGeneratorArray = [
   {
     id: "wb-1",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wb.png",
     alt: "Holy guy x2",
     number: null,
@@ -632,7 +607,6 @@ export const boardGeneratorArray = [
   {
     id: "wn-1",
     pieceClass: "square-green",
-    imgClass: "piece",
     src: "pieces/wn.png",
     alt: "headless horseman",
     number: null,
@@ -642,7 +616,6 @@ export const boardGeneratorArray = [
   {
     id: "wr-1",
     pieceClass: "square-white",
-    imgClass: "piece",
     src: "pieces/wr.png",
     alt: "twin towers",
     number: null,
