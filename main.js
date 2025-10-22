@@ -88,6 +88,7 @@ function onSquareClick(e) {
 
 render();
 
+
 /* 
 
 1. Lägga till siffrorna och bokstäver på rätt ställen igen...
